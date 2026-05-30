@@ -2,13 +2,11 @@
 \> hey! I am zapped, I do random stuff with phones and linux.  
 \> I also don't really know what im doing :3    
 
-
-**Quick links**
-
-Hyprland  
+**Hyprland** 
 
 [HyprDots](https://github.com/zaaaappp/HyprDots)╺╸dotfiles  
-[dots](https://github.com/zaaaappp/dots)╺╸old outdated dotfiles  
+[old dots](https://github.com/zaaaappp/dots)╺╸old outdated dotfiles  
 
-HyperOS  
-[HyperTweaks](https://github.com/zaaaappp/HyperTweaks)╺╸Simple tweaks for unrooted devices  
+**HyperOS**
+
+[HyperTweaks](https://github.com/zaaaappp/HyperTweaks)╺╸tweaks for unrooted devices  
