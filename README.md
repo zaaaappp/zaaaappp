@@ -2,5 +2,5 @@
 
                                                            
 hey! I am zapped, I do random stuff with phones and linux.  
+         I also don't really know what im doing :3  
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎▔▔▔▔▔  ▔ ▔  ▔▔▔▔▔
-         I also don't really know what im doing :3
