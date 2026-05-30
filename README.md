@@ -2,4 +2,4 @@
 
 helo! I am zapped, I do random stuff with phones and linux
 
-[![](https://skillicons.dev/icons?i=arch,windows,neovim,spotify&perline=2)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=arch,windows,neovim,spotify&perline=1)](https://skillicons.dev) a
